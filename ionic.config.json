@@ -1,0 +1,8 @@
+{
+  "name": "SuperApp",
+  "app_id": "67657707",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
