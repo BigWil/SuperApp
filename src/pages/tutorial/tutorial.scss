@@ -1,7 +1,16 @@
 page-tutorial {
   .toolbar-background {
-    background: transparent;
+    background: #29BA9C;
     border-color: transparent;
+  }
+
+  .bar-button-primary-md, 
+  .bar-button-clear-md-primary, 
+  .bar-button-md-primary,
+  .bar-button-primary-md:hover, 
+  .bar-button-clear-md-primary:hover, 
+  .bar-button-md-primary:hover {
+    color:#fff !important;
   }
 
   .slide-zoom {
